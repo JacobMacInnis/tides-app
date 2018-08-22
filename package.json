@@ -1,0 +1,19 @@
+{
+  "name": "tides-app",
+  "version": "0.0.1",
+  "description": "local tidal information",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob MacInnis",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0"
+  }
+}
